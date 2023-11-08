@@ -1,0 +1,74 @@
+Question 1: What is SEO and explain the importance of SEO?
+Ans: SEO stands for Search Engine Optimization. It is the process of optimizing our websites or web pages to improve its visibility and ranking in search engine results pages (SERPs). SEO is important for a number of reasons:
+
+1. It increased visibility of our websites
+2. It improved brand reputation by ranking higher in the SERPs.
+3. It is cost-effective.
+4. SEO can have a long-term impact on our website's traffic and ranking.
+5. It also increases traffic to our websites.
+
+Question 2: Create an HTML document with appropriate <title> and <meta> tags for SEO optimization. Ensure the title is descriptive and the meta description is concise.
+Ans:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 10 Must-Have Free SEO Tools For Beginners</title>
+    <meta name="title" content="Top 10 Must-Have Free SEO Tools For Beginners">
+    <meta name="description" content="Are you a beginner in the world of SEO? Don't worry, we've got you covered with our list of the     top 10 free SEO tools you need to know. Start improving your website's visibility today with these essential tools.">
+    <meta name="author" content="Rekha">
+
+</head>
+<body>
+</body>
+</html>
+
+Question 3: What are the Benefits of Using meta tags?
+Ans: Meta tags are snippets of code that provide information about a web page to search engines and users. They are not visible to the user, but they can be seen in the source code of a web page. 
+
+Here are some of the benefits of using meta tags:
+1. It increased organic traffic: Well-optimized meta tags can help your website to rank higher in search engine results pages (SERPs), which can lead to increased organic traffic.
+
+2. It improved click-through rates (CTRs): Meta tags can help to improve the CTR of your website's search results, which means that more people will be likely to click on your website when it appears in search results.
+
+3. It improved user experience:Meta tags can provide users with helpful information about your website, such as the title and description of a page, which can help them to determine whether the page is relevant to their search query.
+
+4. It increased social media sharing:Meta tags can be used to provide a brief description of a web page, which can be displayed in social media sharing previews. This can help to increase the number of times your page is shared on social media.
+
+5. It improved website indexing:Meta tags can help search engines to understand the content of your website and how it is relevant to a particular search query. This can help the page to be indexed more quickly and accurately.
+
+Question:5 Define Favicon and give an illustrative example.
+Ans: Favicon is a small icon that is associated with a website or web page. It is typically displayed in the address bar of a web browser, in bookmark lists, and in search engine results pages. 
+
+Example:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favicon</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
